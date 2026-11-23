@@ -1,3 +1,5 @@
 Exercises with fork
  excercises with amend
  update
+ 
+ after push +
