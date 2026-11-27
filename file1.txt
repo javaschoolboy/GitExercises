@@ -1,3 +1,3 @@
 Exercises with fork
  excercises with amend
- update
+ update next
